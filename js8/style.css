@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    padding: 40px;
+}
+
+.thumb {
+    margin: 5px;
+    cursor: pointer;
+    border: 2px solid #ccc;
+}
+
+.thumb:hover {
+    border-color: #333;
+}
